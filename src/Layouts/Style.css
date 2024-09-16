@@ -1,0 +1,15 @@
+@keyframes spinY {
+    from {
+      transform: rotateY(0deg);
+    }
+    to {
+      transform: rotateY(360deg);
+    }
+  }
+  
+  .spin-image {
+    animation: spinY 10s linear infinite; 
+    cursor: grab;
+    transition: transform 0.1s ease-out;
+  }
+  
