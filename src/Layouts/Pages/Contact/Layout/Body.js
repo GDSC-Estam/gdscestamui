@@ -52,7 +52,7 @@ export default function Body() {
                             <div className="flex items-center space-x-4">
                                 <a
                                     href="https://github.com/GDSC-Estam"
-                                    className="text-blueColor transition-colors duration-300 text-3xl"
+                                    className="text-white bg-blueColor p-2 rounded-full transition-colors duration-300 text-3xl"
                                 >
                                     <FaGithub />
                                 </a>

@@ -2,6 +2,9 @@
 
 The **GDSC ESTAM Website** is a platform designed to showcase the objectives and activities of the Google Developer Student Clubs (GDSC) at ESTAM University. It’s built with **React.js**, **Tailwind CSS** and hosted using **Firebase**.
 
+## Recognition
+Logo Animation by [Zsolt Pajan](https://dribbble.com/shots/3076875-Google-Developers-logo-animation-concept)
+
 ## Features
 
 - **Home**: About and all that is needed to know about GDSC
